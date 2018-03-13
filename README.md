@@ -3,11 +3,6 @@ Role Name
 
 An [Ansible] role to install/configure [Postfix]
 
-Build Status
-------------
-
-[![Build Status](https://travis-ci.org/mrlesmithjr/ansible-postfix.svg?branch=master)](https://travis-ci.org/mrlesmithjr/ansible-postfix)
-
 Requirements
 ------------
 
