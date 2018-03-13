@@ -93,11 +93,11 @@ BSD
 
 Author Information
 ------------------
+Jérémy Descamps
+- @Xat59
 
-Larry Smith Jr.
-- @mrlesmithjr
-- http://everythingshouldbevirtual.com
-- mrlesmithjr [at] gmail.com
+Role based on @mrlesmithjr work, thank you !
+
 
 [Ansible]: <https://www.ansible.com>
 [Postfix]: <http://www.postfix.org/>
